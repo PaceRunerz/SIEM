@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel SIEM",
+  "description": "High-Performance Mini SIEM Dashboard with real-time threat detection, log normalization, and interactive visualization.",
+  "requestFramePermissions": []
+}
